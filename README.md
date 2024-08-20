@@ -4,7 +4,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/tdtscvt/Kidney-Disease-Classification.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
